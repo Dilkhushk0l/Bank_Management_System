@@ -24,11 +24,12 @@
         "balance": 0
     },
     {
-        "name": "Anushka",
+        "name": "Motti",
         "age": 20,
         "email": "motti@gmail.com",
         "pin": 2121,
         "account_no": "bI0J|41",
         "balance": 6000
     }
+
 ]
