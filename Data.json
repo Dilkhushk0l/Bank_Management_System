@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Dilkhush ",
+        "age": 23,
+        "email": "dilkhush@gmail.com",
+        "pin": 2121,
+        "account_no": "v355\\WV",
+        "balance": 0
+    },
+    {
+        "name": "Rohit",
+        "age": 21,
+        "email": "rohit@gmial.com",
+        "pin": 2323,
+        "account_no": "17I8i)p",
+        "balance": 0
+    },
+    {
+        "name": "Akash",
+        "age": 21,
+        "email": "Akash@gamil.com",
+        "pin": 2121,
+        "account_no": "Ch\"57f5",
+        "balance": 0
+    },
+    {
+        "name": "Anushka",
+        "age": 20,
+        "email": "motti@gmail.com",
+        "pin": 2121,
+        "account_no": "bI0J|41",
+        "balance": 6000
+    }
+]
